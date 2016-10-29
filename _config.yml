@@ -12,7 +12,7 @@ domain: www.gaotaoblog.com
 all_categories: [
 ["hpc", "高性能计算","/posts/hpc.html"], 
 ["pds", "并行与分布式系统","/posts/pds.html"],
-["data", "数据分析","/posts/data.html"],
+["data", "大数据分析","/posts/data.html"],
 ["linux", "Linux系统","/posts/linux.html"], 
 ["program", "编程相关","/posts/program.html"], 
 ["learn", "学习心得","/posts/learn.html"],
