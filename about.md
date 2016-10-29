@@ -2,27 +2,17 @@
 layout: page
 title: "关于：About"
 ---
-Welcome to visit my blog!
+欢迎访问我的博客!
 
-#### 1.Personal Info
-Name: Xuewen Pan(潘学文)  
-Gender: Male  
-City: Wuhan, China  
-Career: Software developer(Android&Linux&Web)  
+#### 1.个人简介
+姓名: 高涛
+性别: 男   
+研究兴趣: 高性能计算，并行与分布式系统，大数据分析
 
-#### 2.My Links
-Blog: <http://www.panxw.com>  
-GitHub: <https://github.com/panxw>  
-LinkedIn: <http://www.linkedin.com/in/panxw>  
-
+#### 2.个人链接
+GitHub: <https://github.com/taogaocn>  
 
 #### 3.Contract
-Email: winfirm#163.com  
-QQ: 85902258  
+Email: taogao.china#gmail.com
+QQ: 6518909875
 
-### 4.Domain For Sale
-danbaili.com  
-fangxinyu.com  
-maicaiwa.com  
-babytoycar.com  
-youth168.com  

@@ -3,19 +3,19 @@ highlighter: pygments
 permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
-github: panxw
-author: "潘学文"
-email: winfirm#163.com
-name: "潘学文个人博客"
-url: http://www.panxw.com
-domain: www.panxw.com
+github: taogaocn
+author: "高涛"
+email: taogao.china#gmail.com
+name: "高涛个人博客"
+url: http://www.gaotaoblog.com
+domain: www.gaotaoblog.com
 all_categories: [
-["android", "Android开发","/posts/android.html"], 
-["program", "软件编程","/posts/program.html"],
-["web", "Web建站","/posts/web.html"], 
-["linux", "Linux相关","/posts/linux.html"],
-["read", "读书笔记","/posts/read.html"], 
-["other", "杂记","/posts/other.html"],
+["hpc", "高性能计算","/posts/hpc.html"], 
+["pds", "并行与分布式系统","/posts/pds.html"],
+["data", "数据分析","/posts/data.html"],
+["linux", "Linux系统","/posts/linux.html"], 
+["program", "编程相关","/posts/program.html"], 
+["learn", "学习心得","/posts/learn.html"],
 ["about", "关于","/about.html"]
 ]
 
