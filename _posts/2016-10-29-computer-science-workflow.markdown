@@ -10,4 +10,4 @@ tags: [计算机, 研究, 工作流程]
 </p>
 
 
-![Workflow](http://github.com/taogaocn/taogaocn/raw/master/figures/workflow.png)
+![Workflow](http://github.com/taogaocn/taogaocn/raw/master/figures/workflow.png | width="350")
