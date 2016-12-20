@@ -34,12 +34,14 @@ tags: [MapReduce, Big Data]
 * Jiang W, Agrawal G. Ex-mate: data intensive computing with large reduction objects and its application to graph mining[C]//Proceedings of the 2011 11th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing. IEEE Computer Society, 2011: 475-484. [link](http://dl.acm.org/citation.cfm?id=2007356)
 * Wang Y, Jiang W, Agrawal G. Scimate: A novel mapreduce-like framework for multiple scientific data formats[C]//Cluster, Cloud and Grid Computing (CCGrid), 2012 12th IEEE/ACM International Symposium on. IEEE, 2012: 443-450. [link](http://ieeexplore.ieee.org/document/6217452/?arnumber=6217452)
 
+
 ### MPI-based Framework
 
 #### MapReduce-MPI
 1. Website [link](http://mapreduce.sandia.gov)
 2. Publications:
 * Plimpton S J, Devine K D. MapReduce in MPI for large-scale graph algorithms[J]. Parallel Computing, 2011, 37(9): 610-632. [link](http://www.sciencedirect.com/science/article/pii/S0167819111000172)
+3. MR-MPI-BLAST [link](https://github.com/andreyto/mr-mpi-blast)
 
 #### K-MapReduce
 1. Website [link](http://mt.aics.riken.jp/kmr/Wiki.jsp?page=Main)
