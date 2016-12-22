@@ -4,6 +4,12 @@ category: "learn"
 title:  "MapReduce Related Work"
 tags: [MapReduce, Big Data]
 ---
+### Google MapReduce
+1. Publications
+* Dean J, Ghemawat S. MapReduce: simplified data processing on large
+  clusters[J]. Communications of the ACM, 2008, 51(1): 107-113.
+  [link](http://jayurbain.com/msoe/cs4230/Readings/MapReduce%20-%20Simplified%20Data%20Processing%20on%20Large%20Clusters.pdf)
+
 ### Hadoop Related
 1. Apache Hadoop Website [link](http://hadoop.apache.org)
 2. Publications
