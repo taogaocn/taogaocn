@@ -41,7 +41,18 @@ tags: [MapReduce, Big Data]
 * Wang Y, Jiang W, Agrawal G. Scimate: A novel mapreduce-like framework for multiple scientific data formats[C]//Cluster, Cloud and Grid Computing (CCGrid), 2012 12th IEEE/ACM International Symposium on. IEEE, 2012: 443-450. [link](http://ieeexplore.ieee.org/document/6217452/?arnumber=6217452)
 
 
+### Themis
+1. Publications
+* Rasmussen, Alexander, et al. "Themis: an i/o-efficient mapreduce."
+  Proceedings of the Third ACM Symposium on Cloud Computing. ACM, 2012.
+  [link](https://github.com/TritonNetworking/themis_tritonsort)
+
 ### MPI-based Framework
+
+#### Publication
+1.Hoefler, Torsten, Andrew Lumsdaine, and Jack Dongarra. "Towards
+efficient mapreduce using mpi." European Parallel Virtual
+Machine/Message Passing Interface Users’ Group Meeting. Springer Berlin Heidelberg, 2009.[link](http://link.springer.com/chapter/10.1007/978-3-642-03770-2_30)
 
 #### MapReduce-MPI
 1. Website [link](http://mapreduce.sandia.gov)
