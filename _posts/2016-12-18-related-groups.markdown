@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "learn"
-title:  "Big Data Related Projects"
+title:  "Related Group"
 tags: [Big Data]
 ---
 ### OSU NOWLAB: Network Based Computing Lab [link](http://nowlab.cse.ohio-state.edu/projects/31/)
