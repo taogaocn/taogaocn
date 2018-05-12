@@ -1,4 +1,4 @@
 ---
 layout: category
-category: hpc
+category: hardware
 ---
