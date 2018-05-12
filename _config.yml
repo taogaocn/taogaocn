@@ -6,7 +6,7 @@ excerpt_separator: "<!-- more -->"
 github: taogaocn
 author: "高涛"
 email: taogao.china#gmail.com
-name: "高涛个人博客"
+name: "高涛的博客"
 url: http://www.gaotaoblog.com
 domain: www.gaotaoblog.com
 all_categories: [
@@ -20,7 +20,7 @@ all_categories: [
 
 paginate: 8
 paginate_path: "posts/page:num"
-timezone: America/Los_Angeles
+timezone: China/Beijing
 
 collections:
   docs:
