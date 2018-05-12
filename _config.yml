@@ -10,11 +10,10 @@ name: "高涛的博客"
 url: http://www.gaotaoblog.com
 domain: www.gaotaoblog.com
 all_categories: [
-["system", "系统","/posts/system.html"], 
-["app", "应用","/posts/app.html"], 
-["hardware", "硬件","/posts/hardware.html"],
-["tool", "工具","/posts/tool.html"],
-["learn", "学习","/posts/learn.html"],
+["tech", "技术人生", "/posts/tech.html"],
+["survey", "行业调查", "/posts/survey.html"],
+["tool", "有效工具", "/posts/tool.html"],
+["learn", "学习记录", "/posts/learn.html"],
 ["about", "关于","/about.html"]
 ]
 
