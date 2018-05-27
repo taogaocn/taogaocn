@@ -54,7 +54,7 @@ or
 git fetch upstream/dev
 git rebase upstream/dev
 or
-git pull --rebase upstream/dev
+git pull --rebase upstream dev
 # 7. 本地修改并push到远端
 git push origin HEAD:dev
 # 8. 向团队仓库发送pull request
