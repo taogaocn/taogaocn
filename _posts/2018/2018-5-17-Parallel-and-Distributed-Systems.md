@@ -73,10 +73,18 @@ tags: [并行处理,分布式处理,云计算,高性能计算,大数据分析]
 #### 5.3 国家超级计算长沙中心
 #### 5.4 阿里云
 
-### 6 应用
+### 6 Benchmark
+* [Hibench](https://github.com/intel-hadoop/HiBench): 由Intel开发的针对Hadoop
+的基准测试工具
+* [Berkeley BigDataBench](https://amplab.cs.berkeley.edu/benchmark/)：由AMPLab
+开发的一套大数据基准测试工具
+* [BigDataBenchmark](http://prof.ict.ac.cn/publications/):中科院开发的基准测试
+工具
+
+### 7 应用
 * Indiana University的Geoffrey C.Fox研究组，分析大数据应用的特点 [网站](http://www.spidal.org/)
 
-### 7 总结
+### 8 总结
 
-### 8 问题
+### 9 问题
 
