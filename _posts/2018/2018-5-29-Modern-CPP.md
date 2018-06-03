@@ -41,3 +41,16 @@ T&& + && => T&&
 * 当推断右值引用的类型时，左值参数推断为左值
 * 传值的函数参数，其const和volatile限定符被忽略
 * 数组和函数名称通常被推断为指针，除非他们被初始化为引用
+
+#### 2. auto类型推断
+* auto类型推断和模板类型推断一致（除了auto类型推断假定以{}初始化
+的类型为std::initializer_list<T>）
+* [C++14] auto作为函数返回值或lambda参数采用模板类型推断
+
+#### 3. decltype类型推断
+* decltype几乎总是返回变量或表达式的类型
+* 对于T类型的左值表达式，decltype返回T&类型
+* [C++14] 支持decltype(auto)，在这种形式下采用decltype类型推断决定auto的类型
+
+### 参考书籍
+* Effective Modern C++
